@@ -1,0 +1,75 @@
+{
+  "bg": "#BAA09B",
+  "widgets": [
+    {
+      "type": "date",
+      "top": "11px",
+      "left": "1653px",
+      "width": "228px",
+      "height": "304px",
+      "content": null,
+      "isTransparent": false,
+      "bgColor": "var(--widget-bg)"
+    },
+    {
+      "type": "time",
+      "top": "351px",
+      "left": "1652px",
+      "width": "232px",
+      "height": "90px",
+      "content": null,
+      "isTransparent": false,
+      "bgColor": ""
+    },
+    {
+      "type": "text",
+      "top": "22px",
+      "left": "19px",
+      "width": "1509px",
+      "height": "210px",
+      "content": "<font face=\"cursive\" style=\"font-size: 80px;\"><b>👋🏻 </b></font><font face=\"'BelleAllureGS', cursive\" style=\"font-size: 80px;\"><b><font color=\"#ff0000\">Bonjour </font><font color=\"#ffff00\">tout </font><font color=\"#0080ff\">le </font><font color=\"#008000\">monde</font></b></font><font face=\"cursive\" style=\"font-size: 80px;\"><b><font color=\"#008000\"> </font>😊</b></font>",
+      "isTransparent": true,
+      "bgColor": "transparent"
+    },
+    {
+      "type": "homework",
+      "top": "1080px",
+      "left": "1080px",
+      "width": "",
+      "height": "",
+      "content": "\n            <u><span style=\"color: red; font-size: 24px; font-weight: bold;\">Pour </span></u><br>\n            <p><span style=\"color: #f7639f; font-size: 20px; font-weight: bold;\">&nbsp;CE2 =</span></p>\n            <p><span style=\"color: #12a2e0; font-size: 20px; font-weight: bold;\">&nbsp;CM2 =</span></p>\n            <p><span style=\"color: #D9C93B; font-size: 20px; font-weight: bold;\">&nbsp;TOUS =</span></p>\n        ",
+      "isTransparent": false,
+      "bgColor": ""
+    },
+    {
+      "type": "time",
+      "top": "1100px",
+      "left": "1100px",
+      "width": "",
+      "height": "",
+      "content": null,
+      "isTransparent": false,
+      "bgColor": ""
+    },
+    {
+      "type": "text",
+      "top": "203px",
+      "left": "182px",
+      "width": "1118px",
+      "height": "136px",
+      "content": "<font face=\"'BelleAllureGS', cursive\" style=\"font-size: 42px;\"><b>Continuez le contrat calmement.</b></font>",
+      "isTransparent": true,
+      "bgColor": "transparent"
+    },
+    {
+      "type": "youtube",
+      "top": "385px",
+      "left": "524px",
+      "width": "593px",
+      "height": "374px",
+      "content": "https://www.youtube.com/embed/eKbfUtLoQwE",
+      "isTransparent": false,
+      "bgColor": ""
+    }
+  ]
+}
